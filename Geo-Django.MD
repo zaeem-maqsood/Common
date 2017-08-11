@@ -1,4 +1,4 @@
-# Django & Geolocation  Created By Jim Mitchell From CFE
+# Django & Geolocation
 
 A quick guide for setting up for getting a user's IP address and geolocation details (from IP Address). 
 
@@ -37,3 +37,5 @@ def your_request_view(request):
        print(local_data)
     return render(request, "template.html", {})
 ```
+
+Created By Jim Mitchell From CFE
