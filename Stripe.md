@@ -5,7 +5,7 @@ Making A Charge With Stripe
 Send Public Key with Form
 ```
 
-2. POST DATA:
+2. "POST" DATA:
 ```
 a. Get Stripe Token from data
 Code:
