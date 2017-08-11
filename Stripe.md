@@ -1,4 +1,4 @@
-#Making A Charge With Stripe
+Making A Charge With Stripe
 
 1. "GET" DATA
 ```
