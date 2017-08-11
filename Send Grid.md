@@ -1,4 +1,4 @@
-Sending and Email With Send Grid 
+Sending An Email With Send Grid 
 
 1. Get Credentials
 ```
