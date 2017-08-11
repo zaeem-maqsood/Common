@@ -1,9 +1,3 @@
-# Common
-Just some common code snippets that come in handy for Django/Python dev
-
-
-# ----------------------------------------------- Create a Local & Blank Django Project
-
 A guide for creating a Django project for use in both Local & Production (deployment) environments.
 ---------
 
