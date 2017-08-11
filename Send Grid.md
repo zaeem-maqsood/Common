@@ -19,6 +19,7 @@ htmly = get_template('account/email/order_confirmation_email.html')
   context["cart_items"] = cart_items
   context["cart"] = cart
   html_content = htmly.render(context)
+```
 
 3. Send Message
 ```
